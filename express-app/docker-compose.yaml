@@ -1,4 +1,4 @@
-  watchtower:
+watchtower:
     image: nickfedor/watchtower
     environment:
       - WATCHTOWER_POLL_INTERVAL=60
